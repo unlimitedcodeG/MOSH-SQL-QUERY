@@ -1,0 +1,2 @@
+# SQL-QUERY
+Personal practice
